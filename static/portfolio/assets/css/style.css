@@ -540,9 +540,12 @@ border-radius: 206px;
 
 .resume .resume-item ul {
   padding-left: 20px;
+   text-align: justify
 }
 
+
 .resume .resume-item ul li {
+  display: inline-block
   padding-bottom: 10px;
 
 }
